@@ -12,6 +12,4 @@ public class FloatingPointLiteral{
         //double x=_12_55_81_5_45_;//error
         System.out.println(x);
     }
-} {
-    
 }
